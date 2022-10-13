@@ -1,0 +1,10 @@
+
+>>Group members searhed for the relevent material to our dataset (Airbnb dataset).
+
+>>They looked for papers pertinent to our topic and extracted their literature reviews.
+
+>>Members looked for the columns in dataset and what they represented.
+
+>>They searched for te problems that could be solved using selected dataset.
+
+>>After the collection of material, group members compiled all the data in the form of a jupyter notebook document named "Proposal_of_Project". 
