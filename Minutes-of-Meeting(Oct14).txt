@@ -1,0 +1,8 @@
+
+>> All the group members gathered to discuss the next milestone in the project and decided the statgey for future meetings.
+
+>> Everybody was assigned to get a full understanding of the data and come up with their interpretation of data.
+
+>> Every group member was asked to cleanse a samll portion  of data so that every member gets to be familiar with the data cleaning. 
+
+>> Tasks of detecting the outliers and categorical variables were assigned.
