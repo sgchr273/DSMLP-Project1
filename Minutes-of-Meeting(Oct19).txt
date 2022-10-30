@@ -1,0 +1,9 @@
+In this meeting, 
+
+>> Previously given tasks were checked and based on that, jobs of data cleansing and manipulation were assigned.
+
+>> Members discussed the graphs that can better represent our data and which of them should be included in our report.
+
+>> The startegy for dealing with missing values was discussed. We finally agreed upon removing the missing observations from our data. The reason is that our data did not contain too much missing values (almost 1000 rows out of 48,000). So instead of taking median of the missing values as a balancing strategy, we decided to remove them.
+
+>> Members made themselves comfortable with the syntax of markdown and code in jupyter notebook in order to use it for the Milestone 2 report.  
