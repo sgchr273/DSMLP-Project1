@@ -1,0 +1,5 @@
+1) Tasks regarding the model building, tuning and testing were assigned to get the best predictive model for the dataset.
+
+2) The names of the algorithms (minimum 6) which will be used for the regression analysis were decided.
+
+3) The job of the key findings and providing suggestions for business improvement along with stakeholders was assigned.
